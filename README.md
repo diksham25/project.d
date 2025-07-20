@@ -2,6 +2,7 @@
 
 A fully functional, visually appealing restaurant website built using HTML and CSS, with a strong focus on responsive design, clean layout, and user experience. Designed to simulate a real-world restaurant interface with modern web development practices.
 
+
 📌 Features
 
 Feature	Description
